@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.a {
+  border: none;
+  height: 2px;
+  background: #3333;
+  transform: rotate(90deg);
+  width: auto;
+  
+}
+
+.b{
+    border: none;
+    height: 2px;
+    background: #3333;
+    display: flex;
+}
